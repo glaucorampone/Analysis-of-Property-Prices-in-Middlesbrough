@@ -1,10 +1,11 @@
 # Analysis of Property Prices in Middlesbrough
-![image](https://github.com/user-attachments/assets/9f988e33-7cf7-4fc5-a22f-f8efe5d9e821)
 
 ## Author
 **Glauco Rampone**  
 Department of Statistics, University of Glasgow, UK  
 Email: [3059030R@student.gla.ac.uk](mailto:3059030R@student.gla.ac.uk) | [Glauco.Rampone@glasgow.ac.uk](mailto:Glauco.Rampone@glasgow.ac.uk)
+
+![image](https://github.com/user-attachments/assets/9f988e33-7cf7-4fc5-a22f-f8efe5d9e821)
 
 ## Project Overview
 Understanding property price dynamics in the housing market is critical for estate agency companies. This study utilizes a dataset developed by University College London (2021), which integrates transaction records from the Land Registry Price Paid Data (PPD) with energy performance and property characteristics from Domestic Energy Performance Certificates (EPCs). By examining these combined datasets, we aim to understand how specific property features influence prices among a set of 10546 houses in Middlesbrough using statistical modelling. 
