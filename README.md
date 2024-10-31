@@ -1,4 +1,5 @@
 # Analysis of Property Prices in Middlesbrough
+![image](https://github.com/user-attachments/assets/9f988e33-7cf7-4fc5-a22f-f8efe5d9e821)
 
 ## Author
 **Glauco Rampone**  
